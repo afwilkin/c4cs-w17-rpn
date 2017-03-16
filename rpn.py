@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import operator
+import readlineZZ
 
 OPERATORS = {
 	'+': operator.add,
@@ -33,44 +34,7 @@ def main():
 		print("Result:", result)
 
 
-def suh():
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
-	print("suh")
+
 
 if __name__ == '__main__':
 	main()
