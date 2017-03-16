@@ -32,5 +32,9 @@ def main():
 		result = calculate(input('rpn calc> '))
 		print("Result:", result)
 
+
+def suh():
+	print("suh")
+
 if __name__ == '__main__':
 	main()
