@@ -2,7 +2,8 @@
 
 import operator
 import readline
-from colorama import Fore, Back, Style
+
+
 
 OPERATORS = {
 	'+': operator.add,
@@ -32,7 +33,10 @@ def calculate(arg):
 def main():
 	while True:
 		result = calculate(input('rpn calc> '))
-		print(Fore.RED + "Result:", result)
+		print("Result:", result)
+
+
+
 
 if __name__ == '__main__':
 	main()
