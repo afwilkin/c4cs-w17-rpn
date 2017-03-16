@@ -2,4 +2,4 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/afwilkin/c4cs-w17-rpn/badge.svg?branch=master)](https://coveralls.io/github/afwilkin/c4cs-w17-rpn?branch=master)
 
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/afwilkin/c4cs-w17-rpn)
+[![Code Climate](https://codeclimate.com/github/afwilkin/afwilkin/badges/gpa.svg)](https://codeclimate.com/github/afwilkin/c4cs-w17-rpn)
