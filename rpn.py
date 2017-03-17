@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-
+import sys
 import operator
-import readlineZZ
+import math
 
 OPERATORS = {
 	'+': operator.add,
@@ -31,7 +31,7 @@ def calculate(arg):
 def main():
 	while True:
 		result = calculate(input('rpn calc> '))
-		print("Result:", result)
+		print("Result:", math.factorial(result))
 
 
 
