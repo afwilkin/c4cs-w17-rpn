@@ -2,6 +2,10 @@
 import sys
 import operator
 import math
+import readline
+
+
+
 
 OPERATORS = {
 	'+': operator.add,
